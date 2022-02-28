@@ -2,4 +2,4 @@
 
 - 🔥 Information Technology Management Student.
 - 🔭 I'm currently working at [IMA](https://ima.sp.gov.br)
-- 💬 Studying **PHP, SQL**
+- 💬 Studying **PHP, SQL, NodeJS**
