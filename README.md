@@ -2,13 +2,11 @@
 
 - 🔥 Information Technology Management Student.
 - 🔭 I'm currently working at [IMA](https://ima.sp.gov.br)
-- 💬 Studying **PHP, SQL, NodeJS**
 
 
 
 
 
-- ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+- 💬 Studying ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
