@@ -3,7 +3,7 @@
 
 - 🔥 Information Technology Management Student.
 - 🔭 I'm currently working at [IMA](https://ima.sp.gov.br)
-- My focus is to study backend languages
+- 👨‍💻 My focus is to study backend languages
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
