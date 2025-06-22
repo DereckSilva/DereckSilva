@@ -29,9 +29,13 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DereckSilva&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DereckSilva&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DereckSilva&show_icons=true&theme=radical" width="48%"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DereckSilva&layout=compact&theme=radical" width="48%"/>
+</p>
+
 
 ---
 
