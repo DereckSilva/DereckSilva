@@ -17,11 +17,62 @@
 
 ### 🛠️ Tech Stack
 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/-Livewire-4E5D94?style=for-the-badge&logo=laravel&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <img src="https://angular.io/assets/images/logos/angular/angular.svg" height="40" alt="angular logo" />
+          <img width="12" /> Angular
+        </td>
+        <td>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo" />
+          <img width="12" /> HTML5
+        </td>
+        <td>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo" />
+          <img width="12" /> CSS3
+        </td>
+        <td>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+          <img width="12" /> JavaScript
+        </td>
+        <td>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+          <img width="12" /> TypeScript
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40" alt="php logo" />
+          <img width="12" /> PHP
+        </td>
+        <td>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
+          <img width="12" /> Laravel
+        </td>
+        <td>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo" />
+          <img width="12" /> Docker
+        </td>
+        <td>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+          <img width="12" /> Linux
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
+          <img width="12" /> MySQL
+        </td>
+        <td>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo" />
+          <img width="12" /> PostgreSQL
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 
 ---
