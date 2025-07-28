@@ -21,9 +21,9 @@
   <table>
     <tbody>
       <tr>
-        <td>
-          <img src="https://angular.io/assets/images/logos/angular/angular.svg" height="40" alt="angular logo" />
-          <img width="12" /> Angular
+        <td style="display: flex; align-items: center; gap: 8px;">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" alt="React logo" />
+          <span>React</span>
         </td>
         <td>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo" />
