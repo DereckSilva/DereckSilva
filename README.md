@@ -52,6 +52,14 @@
           <img width="12" /> Laravel
         </td>
         <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="java logo" />
+        <img width="12" /> Java
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="40" alt="spring logo" />
+        <img width="12" /> Spring
+      </td>
+        <td>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo" />
           <img width="12" /> Docker
         </td>
