@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  💻 Full-Stack Developer | 🚀 Backend-focused | 🇧🇷 Brazil
+  💻 Full-Stack Developer | 🚀 Backend-focused | ☁️ Studying DevOps & DevSecOps | 🇧🇷 Brazil
 </p>
 
 <p align="center">
@@ -17,17 +17,17 @@
 ## 🧠 About Me
 
 - 🔭 Currently working on: **IMA**
-- 🌱 Learning: **English, Software Architecture, Clean Code, React**
-- 💡 Interests: **APIs, Web Systems, Automation**
+* 🌱 Learning: **English, Cloud Computing, Networking, Docker**
+* 💡 Interests: **DevOps & DevSecOps, Security, Cloud Architecture**
 - ⚡ Fun fact: *Break things to understand how they work*
 
 ---
 
 ## 🚧 What I’m Building Right Now
 
-- 🔨 Refactoring Laravel APIs for scalability and maintainability  
-- ⚙️ Improving authentication & authorization flows  
-- 📦 Studying clean architecture and system design fundamentals  
+* 🔨 Refactoring Laravel APIs for scalability and maintainability
+* ⚙️ Improving authentication & authorization flows
+* ☁️ Studying Cloud Computing, Docker, Networking, and AWS fundamentals
 
 ---
 
@@ -63,17 +63,19 @@
 
 ## 📚 How I Learn
 
-- Build small projects around real problems  
-- Break systems to understand internals  
-- Read official documentation before tutorials  
-- Review my own code after a few weeks  
+* Build real-world projects to improve problem-solving skills
+* Break systems intentionally to better understand how they work internally
+* Review and refactor my own code regularly to improve quality and architecture
+* Practice infrastructure, Docker, cloud, and networking concepts through hands-on labs
+
+---
 
 ---
 
 ## 🖥️ Dev Setup
 
 - OS: Linux, Windows  
-- Editor: PHP Storm; WEB Storm; VS Code
+- Editor: PHP Storm; VS Code
 - Terminal: Zsh  
 - Database tools: DBeaver  
 - API testing: Postman  
