@@ -86,7 +86,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DereckSilva&theme=radical" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DereckSilva&theme=radical&timezone=America/Sao_Paulo" width="60%"/>
 </p>
 
 ---
