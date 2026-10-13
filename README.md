@@ -12,16 +12,6 @@
   <i>Building things, breaking them, and learning how they really work.</i>
 </p>
 
----
-
-## 🧠 About Me
-
-- 🔭 Currently working on: **IMA**
-* 🌱 Learning: **English, Cloud Computing, Networking, Docker**
-* 💡 Interests: **DevOps & DevSecOps, Security, Cloud Architecture**
-- ⚡ Fun fact: *Break things to understand how they work*
-
----
 
 ## 🚧 What I'm Building Right Now
 
@@ -46,56 +36,11 @@
 
 ---
 
-## 🛠️ What I Build
-
-- RESTful APIs with Laravel 
-- Backend systems with clean, maintainable architecture  
-- Full-stack applications using React Native + TypeScript  
-- Database-driven systems (MySQL)  
-- Automation scripts and internal tools  
-
----
-
-## ⭐ Featured Projects
-
-- **EasySplit** – Personal Project 
-  `Laravel • MySQL • Docker • React • TypeScrip`
----
-
-## 📚 How I Learn
-
-* Build real-world projects to improve problem-solving skills
-* Break systems intentionally to better understand how they work internally
-* Review and refactor my own code regularly to improve quality and architecture
-* Practice infrastructure, Docker, cloud, and networking concepts through hands-on labs
-
----
-
----
-
-## 🖥️ Dev Setup
-
-- OS: Linux, Windows  
-- Editor: PHP Storm; VS Code
-- Terminal: Zsh  
-- Database tools: DBeaver  
-- API testing: Postman  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DereckSilva&theme=radical&timezone=America/Sao_Paulo" width="60%"/>
 </p>
-
----
-
-## 🎯 Outside Code
-
-- Gym 💪  
-- Podcasts 🎧  
-- Turning coffee into APIs ☕  
 
 ---
 
